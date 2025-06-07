@@ -1,15 +1,13 @@
 body{
-    background-color: cornflowerblue;
-   text-align: center;
+  background-color: cornflowerblue;
+  text-align: center;
 }
 
-.header{
-  
-}
+
 
 button, a{
   width:100px;
-  height:70px;
+height:50px;
   font-weight:bold;
   background-color:rgb(88, 73, 137);
   color:black;
