@@ -3,7 +3,10 @@ body{
   text-align: center;
 }
 
-
+.order{
+  width:50px;
+  height:50px;
+}
 
 button, a{
   width:100px;
